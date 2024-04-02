@@ -1,3 +1,4 @@
+![logo](https://github.com/AQk1/AQk1/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Abdullah Alkathiri</h1>
 <h3 align="center">Data Analyst with a Passion for AI Programming: Bridging Data Science with Artificial Intelligence for Innovative Solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/668001/screenshots/3861883/media/8a8b449e5d6cd30c212bb0057e754b0a.gif")
